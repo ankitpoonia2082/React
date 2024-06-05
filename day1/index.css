@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+
+#header{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 65, 47);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#footer:hover{
+    background-color: antiquewhite;
+}
